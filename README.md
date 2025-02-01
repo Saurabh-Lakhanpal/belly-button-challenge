@@ -18,6 +18,7 @@ Complete the following steps:
    - Use `sample_values` as the values for the bar chart.
    - Use `otu_ids` as the labels for the bar chart.
    - Use `otu_labels` as the hovertext for the chart.
+
      ![image](https://github.com/user-attachments/assets/fe721c1d-bdd7-4f96-a71c-80cf600b514a)
 
 ### Bar Chart
@@ -28,6 +29,7 @@ Complete the following steps:
    - Use `sample_values` for the marker size.
    - Use `otu_ids` for the marker colors.
    - Use `otu_labels` for the text values.
+
      ![image](https://github.com/user-attachments/assets/0dc8d299-8bfe-4ec9-92b1-a0c84aba07bf)
 
 ### Bubble Chart
@@ -35,13 +37,15 @@ Complete the following steps:
 4. Display the sample's metadata, i.e., an individual's demographic information.
    - Loop through each key-value pair from the metadata JSON object and create a text string.
    - Append an html tag with that text to the `#sample-metadata` panel.
-      ![image](https://github.com/user-attachments/assets/b5ef0447-1780-4106-9b47-6768993b2025)
+
+     ![image](https://github.com/user-attachments/assets/b5ef0447-1780-4106-9b47-6768993b2025)
 
 
 ### Updating Plots
 
 5. Update all the plots when a new sample is selected. Create a layout that for the dashboard. An example dashboard is shown as follows:
-    ![image](https://github.com/user-attachments/assets/47e4777d-465d-46e3-9e48-c361d7005d90)
+
+   ![image](https://github.com/user-attachments/assets/47e4777d-465d-46e3-9e48-c361d7005d90)
 
 ### Deployment
 
