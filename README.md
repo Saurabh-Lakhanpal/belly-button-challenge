@@ -3,14 +3,16 @@ Create an interactive dashboard to explore the [Belly Button Biodiversity datase
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-## Steps
+## Solution
+
+## Instructions
 1. Create a new repository for this project called `belly-button-challenge`. Do not add this Challenge to an existing repository.
 2. Clone the new repository.
 3. Inside the local git repository, copy the files from the `StarterCode` folder contained within the Module 14 Challenge zip file, i.e., `index.html`, `samples.json`, and the `static` folder.
 4. Push the above changes to GitHub.
 5. Deploy the new repository to GitHub Pages.
 
-## Instructions
+## Steps
 Complete the following steps:
 
 1. Use the D3 library to read in `samples.json` from the URL [https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json).
