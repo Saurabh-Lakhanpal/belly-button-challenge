@@ -35,7 +35,7 @@ Complete the following steps:
 4. Display the sample's metadata, i.e., an individual's demographic information.
    - Loop through each key-value pair from the metadata JSON object and create a text string.
    - Append an html tag with that text to the `#sample-metadata` panel.
-     ![image](https://github.com/user-attachments/assets/b5ef0447-1780-4106-9b47-6768993b2025)
+      ![image](https://github.com/user-attachments/assets/b5ef0447-1780-4106-9b47-6768993b2025)
 
 
 ### Updating Plots
